@@ -1,0 +1,22 @@
+.container{
+	position: sticky;
+	display: flex;
+	flex-wrap: nowrap;
+	background-color: darkgray;
+
+	/*flex-direction: row-reverse;*/
+	justify-content: flex-start;
+	justify-content: center;
+}
+
+.container div{
+
+	color: darkblue;
+	height: 50px;
+	width: 150px;
+	background-color: lightgrey;
+	text-align: center;
+	line-height: 55px;
+	font-size: 25px;
+	margin: 2.5px;
+}

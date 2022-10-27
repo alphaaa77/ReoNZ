@@ -5,6 +5,30 @@ ul{
 	overflow: hidden;
 	background-color: ghostwhite;
 }
+.ute{
+	font-size: 150%;
+	background-image: url("./images/betterimage.jpg");
+	background-repeat: no-repeat;
+	background-size: 1900px 800px;
+
+	color: white;
+	padding-top: 350px;
+	padding-left: 800px;
+	padding-bottom: 200px;
+
+}
+body{
+	margin: 0px;
+	font-family: system-ui;
+}
+h1{
+	text-align: middle;
+	top: 0px;
+	left: 710px;
+	background: ghostwhite;
+	width: 500px;
+	position: sticky;
+}
 li a{
 	float: right;
 	display: block;
